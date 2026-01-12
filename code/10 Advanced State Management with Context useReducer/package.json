@@ -1,0 +1,15 @@
+{
+    "name": "root-workspace",
+    "private": true,
+    "workspaces": [
+        "01-starting-project",
+        "02-prop-drilling-cmp-composition",
+        "03-creating-providing-context",
+        "04-consuming-context",
+        "05-linking-context-to-state",
+        "06-migrating-entire-project",
+        "07-outsourcing-context-provider-cmp",
+        "08-introducing-usereducer",
+        "09-dispatching-actions-finished"
+    ]
+}

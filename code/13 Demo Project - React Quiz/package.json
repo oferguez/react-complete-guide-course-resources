@@ -1,0 +1,14 @@
+{
+    "name": "root-workspace",
+    "private": true,
+    "workspaces": [
+        "01-starting-project",
+        "02-first-cmp-some-state",
+        "03-deriving-values-outputting-questions",
+        "04-shuffling-answers",
+        "05-working-with-effect-deps",
+        "06-using-effect-cleanup-fn",
+        "07-moving-logic-to-cmp-that-need-it",
+        "08-finished"
+    ]
+}
